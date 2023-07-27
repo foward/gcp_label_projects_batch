@@ -1,0 +1,6 @@
+project_id;application_id;application_cluster
+gcp-project-id-1;id-1000;group1
+gcp-project-id-2;id-1000;group1
+gcp-project-id-3;id-1001;group2
+gcp-project-id-4;id-1001;group2
+gcp-project-id-5;id-1001;group2
